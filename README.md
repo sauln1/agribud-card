@@ -1,17 +1,10 @@
-# Boilerplate Card
+# Agribud Card
 
-A community-driven boilerplate of best practices for Home Assistant Lovelace custom cards.
+This is the front end card for use with the (Agribud integration)[https://github.com/sauln1/Agribud].
 
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE.md)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-
----
-
-## Overview
-
-This is the front end card for use with the (Agribud integration)[https://github.com/sauln1/Agribud].
----
 
 ## Installation
 
