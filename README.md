@@ -2,9 +2,9 @@
 
 This is the front end card for use with the (Agribud integration)[https://github.com/sauln1/Agribud].
 
-[![GitHub Release][releases-shield]][releases]
-[![License][license-shield]](LICENSE.md)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+![Version](https://img.shields.io/badge/version-1.1.2-1D9E75)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2025.1%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## Installation
 
