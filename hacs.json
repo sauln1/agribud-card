@@ -1,5 +1,6 @@
 {
-    "name": "Agribud Card",
-    "render_readme": true,
-    "filename": "agribud-card.js"
+  "name": "agriobud-card",
+  "render_readme": true,
+  "filename": "agribud-card.js".
+  "content_in_root": true
 }
